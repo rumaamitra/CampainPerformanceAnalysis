@@ -1,0 +1,1001 @@
+Customer ID,Interaction Date,Interaction Type,Interaction Channel
+1,2/28/2024,share,website
+2,4/27/2024,view,social media
+3,2/26/2024,share,email
+4,2/13/2024,click,email
+5,4/1/2024,share,social media
+6,6/26/2024,click,website
+7,3/3/2024,click,website
+8,5/13/2024,view,email
+9,4/8/2024,click,email
+10,5/1/2024,share,email
+11,1/14/2024,share,email
+12,2/7/2024,click,website
+13,2/1/2024,share,social media
+14,6/15/2024,share,email
+15,4/25/2024,view,website
+16,2/6/2024,click,website
+17,4/16/2024,click,email
+18,6/19/2024,share,website
+19,2/22/2024,view,website
+20,3/11/2024,click,website
+21,4/27/2024,share,website
+22,6/20/2024,share,website
+23,3/24/2024,share,email
+24,1/24/2024,view,email
+25,1/27/2024,share,social media
+26,5/13/2024,share,social media
+27,4/21/2024,click,email
+28,3/29/2024,click,email
+29,1/31/2024,view,email
+30,2/24/2024,click,social media
+31,5/19/2024,share,website
+32,2/8/2024,click,website
+33,3/8/2024,share,social media
+34,4/16/2024,view,website
+35,2/26/2024,view,social media
+36,3/16/2024,share,social media
+37,4/14/2024,click,website
+38,6/2/2024,click,website
+39,4/13/2024,share,website
+40,3/16/2024,share,email
+41,6/14/2024,view,website
+42,3/6/2024,click,email
+43,4/10/2024,click,social media
+44,3/18/2024,view,social media
+45,6/18/2024,view,email
+46,3/13/2024,share,email
+47,1/27/2024,click,email
+48,6/15/2024,click,social media
+49,6/18/2024,click,website
+50,5/1/2024,view,email
+51,5/18/2024,click,website
+52,5/4/2024,view,social media
+53,7/5/2024,click,email
+54,2/28/2024,click,website
+55,6/7/2024,view,email
+56,6/27/2024,share,email
+57,7/1/2024,view,social media
+58,1/6/2024,click,website
+59,4/16/2024,view,email
+60,1/10/2024,share,website
+61,5/26/2024,share,website
+62,6/10/2024,view,email
+63,5/27/2024,share,social media
+64,6/24/2024,view,email
+65,1/18/2024,click,social media
+66,5/20/2024,click,email
+67,2/27/2024,share,website
+68,2/20/2024,share,website
+69,5/6/2024,view,social media
+70,6/19/2024,view,email
+71,5/8/2024,share,email
+72,6/6/2024,share,email
+73,2/5/2024,click,social media
+74,4/14/2024,view,social media
+75,1/27/2024,share,email
+76,3/14/2024,share,website
+77,2/17/2024,click,social media
+78,2/18/2024,click,email
+79,4/26/2024,share,social media
+80,1/11/2024,share,website
+81,3/23/2024,view,social media
+82,6/14/2024,share,website
+83,3/2/2024,click,email
+84,3/5/2024,share,email
+85,5/22/2024,view,website
+86,1/29/2024,share,website
+87,3/25/2024,share,email
+88,2/27/2024,click,email
+89,2/11/2024,view,social media
+90,6/21/2024,view,email
+91,4/16/2024,view,website
+92,3/29/2024,share,website
+93,3/11/2024,view,social media
+94,6/11/2024,view,social media
+95,5/21/2024,view,social media
+96,6/22/2024,view,website
+97,2/1/2024,share,social media
+98,3/5/2024,view,website
+99,5/2/2024,click,website
+100,4/2/2024,click,email
+101,1/2/2024,share,website
+102,1/25/2024,click,social media
+103,5/5/2024,view,website
+104,5/27/2024,click,
+105,1/9/2024,share,social media
+106,1/25/2024,share,website
+107,3/25/2024,share,social media
+108,1/28/2024,view,social media
+109,4/17/2024,view,social media
+110,5/20/2024,view,website
+111,5/30/2024,click,website
+112,3/7/2024,click,email
+113,3/10/2024,click,
+114,6/15/2024,share,website
+115,2/6/2024,share,website
+116,2/13/2024,share,website
+117,6/22/2024,share,email
+118,1/2/2024,share,website
+119,6/27/2024,click,email
+120,3/7/2024,view,
+121,1/17/2024,click,email
+122,3/1/2024,click,website
+123,3/8/2024,share,email
+124,2/14/2024,share,email
+125,5/5/2024,click,email
+126,3/18/2024,view,social media
+127,3/25/2024,click,social media
+128,6/5/2024,share,website
+129,2/19/2024,view,website
+130,2/1/2024,click,social media
+131,6/24/2024,share,email
+132,2/13/2024,view,website
+133,2/24/2024,share,email
+134,3/7/2024,view,
+135,6/8/2024,click,email
+136,4/4/2024,click,email
+137,3/12/2024,view,website
+138,1/19/2024,view,social media
+139,4/5/2024,view,email
+140,3/20/2024,share,website
+141,2/21/2024,share,website
+142,6/9/2024,share,social media
+143,6/28/2024,view,social media
+144,4/10/2024,share,social media
+145,2/14/2024,share,email
+146,6/1/2024,view,email
+147,2/15/2024,share,social media
+148,2/29/2024,view,email
+149,7/3/2024,click,
+150,5/16/2024,share,social media
+151,2/14/2024,share,website
+152,6/19/2024,share,social media
+153,1/6/2024,view,social media
+154,6/17/2024,view,email
+155,3/10/2024,share,email
+156,5/20/2024,click,website
+157,2/10/2024,click,email
+158,5/20/2024,view,social media
+159,1/16/2024,share,website
+160,4/27/2024,view,social media
+161,4/15/2024,click,website
+162,1/28/2024,view,social media
+163,2/12/2024,share,
+164,5/13/2024,share,email
+165,1/29/2024,view,email
+166,4/10/2024,click,email
+167,4/27/2024,click,social media
+168,3/21/2024,view,social media
+169,6/13/2024,click,email
+170,5/23/2024,share,social media
+171,3/6/2024,click,social media
+172,5/27/2024,share,website
+173,4/10/2024,click,email
+174,5/3/2024,click,email
+175,3/16/2024,click,social media
+176,4/17/2024,click,website
+177,4/16/2024,click,
+178,1/2/2024,click,website
+179,6/19/2024,view,website
+180,1/26/2024,share,social media
+181,4/18/2024,view,social media
+182,2/3/2024,click,email
+183,5/13/2024,click,social media
+184,5/7/2024,share,website
+185,4/15/2024,share,email
+186,2/7/2024,view,email
+187,1/1/2024,view,email
+188,4/10/2024,view,website
+189,6/12/2024,view,website
+190,5/27/2024,view,email
+191,3/19/2024,share,website
+192,1/17/2024,click,
+193,1/16/2024,view,social media
+194,2/10/2024,share,website
+195,1/18/2024,click,website
+196,4/15/2024,view,email
+197,1/10/2024,share,website
+198,2/3/2024,share,email
+199,1/25/2024,share,website
+200,1/26/2024,share,website
+201,6/4/2024,click,email
+202,1/25/2024,share,email
+203,4/8/2024,view,social media
+204,5/29/2024,view,email
+205,5/12/2024,click,social media
+206,2/26/2024,click,social media
+207,6/29/2024,click,website
+208,7/5/2024,share,email
+209,6/10/2024,click,email
+210,2/16/2024,view,
+211,6/24/2024,view,email
+212,6/2/2024,view,website
+213,4/22/2024,view,email
+214,2/16/2024,click,email
+215,4/7/2024,share,social media
+216,2/11/2024,click,social media
+217,1/26/2024,share,website
+218,3/19/2024,view,social media
+219,3/2/2024,share,website
+220,6/19/2024,view,social media
+221,1/21/2024,view,social media
+222,6/4/2024,view,website
+223,4/20/2024,view,email
+224,5/18/2024,share,email
+225,4/25/2024,click,email
+226,3/3/2024,share,website
+227,2/10/2024,click,social media
+228,5/9/2024,share,email
+229,1/12/2024,click,website
+230,4/7/2024,share,website
+231,6/16/2024,click,website
+232,5/6/2024,click,website
+233,3/3/2024,share,
+234,3/24/2024,click,social media
+235,1/23/2024,click,website
+236,4/3/2024,view,email
+237,5/23/2024,view,website
+238,2/15/2024,share,social media
+239,1/11/2024,share,email
+240,3/2/2024,share,website
+241,1/16/2024,share,website
+242,2/1/2024,view,email
+243,5/3/2024,share,social media
+244,5/31/2024,click,website
+245,1/18/2024,share,social media
+246,6/22/2024,share,social media
+247,1/3/2024,view,website
+248,5/3/2024,view,email
+249,5/2/2024,click,website
+250,2/4/2024,view,social media
+251,5/25/2024,click,website
+252,6/11/2024,view,website
+253,2/23/2024,share,
+254,4/19/2024,view,website
+255,6/13/2024,click,email
+256,4/11/2024,share,email
+257,2/11/2024,click,website
+258,5/19/2024,share,social media
+259,3/6/2024,click,email
+260,3/30/2024,view,social media
+261,1/12/2024,view,email
+262,3/1/2024,share,social media
+263,3/27/2024,share,email
+264,5/10/2024,click,email
+265,5/6/2024,view,social media
+266,1/2/2024,click,email
+267,4/5/2024,view,email
+268,1/25/2024,click,email
+269,1/16/2024,share,social media
+270,3/1/2024,view,website
+271,2/3/2024,click,website
+272,4/14/2024,view,email
+273,5/18/2024,view,website
+274,4/22/2024,click,social media
+275,5/11/2024,share,website
+276,5/21/2024,view,social media
+277,5/25/2024,click,website
+278,4/7/2024,click,website
+279,3/2/2024,click,social media
+280,3/6/2024,view,email
+281,4/10/2024,view,social media
+282,7/4/2024,view,social media
+283,1/29/2024,click,email
+284,2/3/2024,share,email
+285,6/29/2024,click,social media
+286,2/6/2024,share,website
+287,4/18/2024,view,social media
+288,4/18/2024,share,social media
+289,1/10/2024,view,website
+290,1/26/2024,click,social media
+291,6/7/2024,view,email
+292,2/15/2024,view,website
+293,6/12/2024,view,email
+294,2/1/2024,view,email
+295,2/11/2024,click,website
+296,3/8/2024,share,email
+297,6/27/2024,view,social media
+298,6/28/2024,share,social media
+299,5/4/2024,view,website
+300,5/5/2024,share,social media
+301,4/12/2024,click,social media
+302,2/27/2024,share,social media
+303,5/25/2024,view,social media
+304,5/7/2024,share,website
+305,4/19/2024,share,email
+306,3/5/2024,share,social media
+307,6/14/2024,click,website
+308,4/27/2024,share,website
+309,5/14/2024,click,social media
+310,2/9/2024,share,email
+311,2/13/2024,view,email
+312,5/10/2024,share,website
+313,5/2/2024,view,social media
+314,6/19/2024,share,email
+315,1/2/2024,share,email
+316,6/6/2024,share,website
+317,6/11/2024,view,website
+318,4/30/2024,click,social media
+319,4/17/2024,view,email
+320,1/24/2024,click,social media
+321,4/6/2024,click,email
+322,2/5/2024,share,email
+323,6/21/2024,view,social media
+324,1/7/2024,view,social media
+325,5/13/2024,share,email
+326,2/22/2024,share,email
+327,2/6/2024,click,social media
+328,6/12/2024,share,website
+329,3/27/2024,view,email
+330,2/26/2024,share,website
+331,3/5/2024,click,social media
+332,3/28/2024,view,social media
+333,2/27/2024,click,social media
+334,1/22/2024,share,website
+335,5/27/2024,view,social media
+336,1/5/2024,share,social media
+337,6/13/2024,click,social media
+338,4/19/2024,view,website
+339,5/14/2024,share,website
+340,4/28/2024,click,social media
+341,4/5/2024,view,social media
+342,3/18/2024,click,email
+343,1/22/2024,click,social media
+344,1/27/2024,share,email
+345,6/6/2024,view,website
+346,2/9/2024,click,social media
+347,3/28/2024,view,social media
+348,3/12/2024,share,email
+349,2/18/2024,click,website
+350,4/17/2024,share,email
+351,2/1/2024,share,website
+352,1/17/2024,share,social media
+353,3/16/2024,view,website
+354,2/19/2024,share,social media
+355,5/25/2024,view,email
+356,4/12/2024,view,email
+357,2/14/2024,view,social media
+358,6/29/2024,click,email
+359,6/10/2024,view,email
+360,2/8/2024,view,email
+361,1/23/2024,click,social media
+362,1/29/2024,share,email
+363,1/10/2024,share,social media
+364,6/12/2024,share,social media
+365,6/1/2024,view,social media
+366,7/1/2024,share,social media
+367,4/3/2024,click,website
+368,1/15/2024,share,social media
+369,3/12/2024,share,social media
+370,4/25/2024,view,social media
+371,4/24/2024,share,email
+372,1/9/2024,share,social media
+373,4/5/2024,click,website
+374,3/18/2024,click,social media
+375,7/2/2024,view,social media
+376,3/7/2024,share,website
+377,1/2/2024,view,website
+378,3/24/2024,click,website
+379,4/14/2024,share,social media
+380,6/11/2024,click,website
+381,2/24/2024,click,email
+382,7/2/2024,view,website
+383,4/29/2024,click,email
+384,2/15/2024,share,email
+385,4/15/2024,share,social media
+386,1/22/2024,click,website
+387,4/5/2024,click,email
+388,5/23/2024,click,website
+389,1/3/2024,click,social media
+390,1/28/2024,share,email
+391,6/23/2024,share,social media
+392,3/16/2024,click,social media
+393,5/3/2024,view,social media
+394,4/4/2024,click,social media
+395,3/7/2024,view,social media
+396,4/22/2024,click,website
+397,2/12/2024,click,email
+398,1/27/2024,share,website
+399,5/4/2024,click,email
+400,5/4/2024,view,social media
+401,2/10/2024,click,email
+402,7/5/2024,share,email
+403,6/21/2024,share,social media
+404,6/19/2024,view,website
+405,2/3/2024,click,email
+406,6/14/2024,share,website
+407,6/29/2024,click,email
+408,2/16/2024,click,email
+409,3/17/2024,click,social media
+410,3/31/2024,click,email
+411,1/25/2024,share,website
+412,3/7/2024,click,email
+413,3/4/2024,click,email
+414,6/15/2024,share,website
+415,2/26/2024,click,website
+416,3/19/2024,view,email
+417,2/28/2024,click,email
+418,1/29/2024,view,social media
+419,2/2/2024,share,website
+420,3/24/2024,view,email
+421,4/22/2024,click,social media
+422,6/21/2024,click,email
+423,1/3/2024,share,email
+424,1/27/2024,click,email
+425,5/6/2024,view,social media
+426,4/1/2024,share,website
+427,1/17/2024,click,social media
+428,2/17/2024,view,social media
+429,2/17/2024,view,website
+430,5/29/2024,view,social media
+431,2/25/2024,share,email
+432,6/9/2024,share,social media
+433,1/21/2024,share,social media
+434,1/4/2024,click,email
+435,5/16/2024,share,social media
+436,5/18/2024,share,website
+437,2/6/2024,click,website
+438,5/24/2024,click,website
+439,5/18/2024,share,website
+440,3/16/2024,share,website
+441,5/26/2024,view,website
+442,4/14/2024,view,website
+443,1/14/2024,view,social media
+444,3/4/2024,view,website
+445,3/30/2024,share,email
+446,2/24/2024,click,email
+447,1/15/2024,view,website
+448,6/20/2024,view,website
+449,6/26/2024,view,website
+450,1/14/2024,share,email
+451,1/8/2024,view,email
+452,3/22/2024,share,website
+453,7/6/2024,view,website
+454,7/4/2024,click,email
+455,4/21/2024,view,website
+456,2/3/2024,view,email
+457,3/4/2024,share,social media
+458,4/11/2024,click,website
+459,1/20/2024,share,social media
+460,1/17/2024,share,website
+461,1/5/2024,click,email
+462,5/2/2024,share,social media
+463,1/19/2024,share,social media
+464,6/1/2024,share,email
+465,6/14/2024,share,social media
+466,3/25/2024,click,website
+467,5/11/2024,click,email
+468,1/19/2024,view,email
+469,2/13/2024,view,website
+470,4/30/2024,view,social media
+471,4/29/2024,view,email
+472,5/21/2024,share,website
+473,3/26/2024,click,social media
+474,4/5/2024,view,email
+475,5/29/2024,share,email
+476,5/1/2024,click,social media
+477,4/14/2024,click,email
+478,5/3/2024,click,social media
+479,4/5/2024,click,social media
+480,2/19/2024,click,email
+481,5/17/2024,view,email
+482,2/1/2024,share,email
+483,1/30/2024,view,website
+484,4/11/2024,share,social media
+485,4/22/2024,click,email
+486,4/3/2024,view,website
+487,4/25/2024,view,website
+488,5/5/2024,click,website
+489,6/6/2024,click,email
+490,6/25/2024,share,website
+491,4/23/2024,share,website
+492,1/19/2024,view,social media
+493,6/1/2024,click,website
+494,4/5/2024,share,website
+495,5/23/2024,view,website
+496,5/6/2024,click,website
+497,1/28/2024,view,email
+498,5/8/2024,click,social media
+499,5/8/2024,click,social media
+500,5/6/2024,share,social media
+501,7/2/2024,share,social media
+502,3/13/2024,click,website
+503,5/10/2024,share,social media
+504,6/18/2024,click,website
+505,2/4/2024,view,website
+506,3/16/2024,share,email
+507,5/25/2024,click,email
+508,6/10/2024,share,social media
+509,3/24/2024,view,email
+510,3/15/2024,share,website
+511,3/14/2024,view,email
+512,3/6/2024,click,social media
+513,1/28/2024,share,website
+514,3/10/2024,view,website
+515,2/4/2024,share,website
+516,2/12/2024,click,website
+517,6/1/2024,click,website
+518,2/25/2024,share,email
+519,6/11/2024,view,website
+520,1/5/2024,click,email
+521,1/5/2024,view,email
+522,1/31/2024,view,social media
+523,3/22/2024,click,email
+524,2/22/2024,share,email
+525,4/1/2024,click,social media
+526,4/26/2024,share,email
+527,2/7/2024,click,email
+528,3/13/2024,share,email
+529,6/17/2024,view,email
+530,3/15/2024,share,website
+531,1/14/2024,click,website
+532,4/21/2024,share,social media
+533,1/25/2024,share,social media
+534,3/14/2024,view,website
+535,3/7/2024,click,social media
+536,3/13/2024,share,email
+537,2/6/2024,view,website
+538,5/22/2024,click,social media
+539,6/29/2024,click,website
+540,2/28/2024,view,social media
+541,3/16/2024,view,website
+542,2/23/2024,click,social media
+543,5/21/2024,share,social media
+544,1/19/2024,share,social media
+545,6/9/2024,click,website
+546,1/22/2024,share,social media
+547,5/15/2024,share,email
+548,7/5/2024,view,social media
+549,6/13/2024,share,email
+550,1/14/2024,view,email
+551,3/2/2024,click,social media
+552,3/27/2024,share,email
+553,2/10/2024,click,email
+554,2/7/2024,view,website
+555,4/7/2024,click,email
+556,6/21/2024,share,social media
+557,4/22/2024,share,social media
+558,5/31/2024,click,website
+559,6/17/2024,view,website
+560,4/19/2024,share,social media
+561,6/4/2024,click,website
+562,3/8/2024,share,email
+563,5/14/2024,view,email
+564,4/17/2024,view,website
+565,3/18/2024,click,email
+566,6/25/2024,click,website
+567,1/25/2024,share,email
+568,3/28/2024,click,email
+569,2/10/2024,view,email
+570,1/5/2024,view,website
+571,6/28/2024,click,email
+572,1/10/2024,share,website
+573,1/17/2024,share,social media
+574,4/11/2024,share,website
+575,3/11/2024,view,social media
+576,2/19/2024,click,email
+577,2/22/2024,share,email
+578,1/27/2024,click,social media
+579,2/19/2024,share,social media
+580,1/27/2024,click,social media
+581,3/23/2024,view,website
+582,7/2/2024,view,email
+583,1/27/2024,share,website
+584,2/10/2024,share,email
+585,6/5/2024,view,website
+586,2/8/2024,view,email
+587,5/17/2024,share,social media
+588,5/4/2024,share,email
+589,1/13/2024,view,social media
+590,2/20/2024,click,website
+591,1/27/2024,click,email
+592,4/8/2024,click,social media
+593,2/2/2024,view,social media
+594,5/1/2024,view,email
+595,3/18/2024,share,website
+596,6/19/2024,share,website
+597,4/29/2024,click,social media
+598,2/4/2024,share,website
+599,1/23/2024,click,email
+600,4/5/2024,click,email
+601,2/21/2024,view,website
+602,4/1/2024,view,email
+603,6/2/2024,share,website
+604,6/28/2024,view,social media
+605,2/12/2024,view,social media
+606,6/18/2024,view,social media
+607,6/10/2024,click,social media
+608,5/20/2024,view,social media
+609,6/15/2024,view,social media
+610,1/30/2024,view,website
+611,3/21/2024,click,email
+612,4/16/2024,share,email
+613,5/13/2024,click,social media
+614,2/10/2024,click,website
+615,3/28/2024,click,website
+616,6/8/2024,share,social media
+617,4/14/2024,click,website
+618,4/16/2024,view,email
+619,2/10/2024,share,email
+620,4/29/2024,share,social media
+621,5/28/2024,view,social media
+622,3/15/2024,view,social media
+623,4/19/2024,share,email
+624,2/29/2024,share,email
+625,3/2/2024,share,website
+626,1/18/2024,click,email
+627,3/13/2024,share,website
+628,3/17/2024,view,website
+629,2/6/2024,click,social media
+630,4/25/2024,view,email
+631,5/6/2024,click,email
+632,2/26/2024,click,email
+633,2/20/2024,click,website
+634,4/26/2024,view,social media
+635,6/26/2024,share,email
+636,6/7/2024,click,website
+637,5/6/2024,click,email
+638,1/29/2024,view,email
+639,3/13/2024,share,social media
+640,3/16/2024,view,website
+641,3/29/2024,click,website
+642,4/22/2024,view,website
+643,4/23/2024,share,social media
+644,3/19/2024,click,email
+645,4/24/2024,view,email
+646,1/7/2024,share,social media
+647,3/3/2024,view,social media
+648,5/16/2024,share,social media
+649,4/30/2024,share,social media
+650,5/3/2024,click,social media
+651,1/24/2024,share,email
+652,1/21/2024,share,social media
+653,4/4/2024,view,website
+654,2/10/2024,click,website
+655,2/10/2024,share,email
+656,2/19/2024,share,website
+657,4/19/2024,click,social media
+658,6/20/2024,click,website
+659,2/16/2024,share,website
+660,1/26/2024,click,social media
+661,4/25/2024,click,email
+662,3/20/2024,share,email
+663,6/1/2024,view,email
+664,3/2/2024,share,website
+665,4/21/2024,view,social media
+666,5/2/2024,click,social media
+667,6/23/2024,click,email
+668,6/5/2024,share,email
+669,4/9/2024,share,website
+670,1/2/2024,click,email
+671,1/4/2024,click,website
+672,1/12/2024,click,website
+673,1/12/2024,share,website
+674,6/5/2024,click,website
+675,3/31/2024,share,website
+676,3/28/2024,view,social media
+677,7/6/2024,view,website
+678,3/13/2024,share,website
+679,7/6/2024,view,social media
+680,4/3/2024,click,website
+681,3/29/2024,view,social media
+682,3/30/2024,click,social media
+683,1/29/2024,view,email
+684,5/20/2024,share,social media
+685,3/3/2024,view,email
+686,7/6/2024,share,website
+687,6/25/2024,click,email
+688,3/30/2024,view,website
+689,4/8/2024,share,social media
+690,1/13/2024,view,website
+691,3/27/2024,view,social media
+692,4/22/2024,view,website
+693,6/3/2024,click,email
+694,2/16/2024,view,website
+695,4/22/2024,view,social media
+696,6/10/2024,view,social media
+697,2/10/2024,share,social media
+698,1/10/2024,view,email
+699,1/14/2024,share,email
+700,3/13/2024,click,website
+701,4/2/2024,view,email
+702,6/2/2024,share,email
+703,6/29/2024,click,social media
+704,2/14/2024,view,social media
+705,7/1/2024,view,email
+706,2/5/2024,click,website
+707,5/15/2024,share,email
+708,4/21/2024,share,social media
+709,3/3/2024,click,email
+710,7/5/2024,click,social media
+711,1/10/2024,share,website
+712,4/7/2024,view,website
+713,2/1/2024,click,social media
+714,5/26/2024,share,website
+715,3/31/2024,click,email
+716,4/27/2024,click,social media
+717,4/3/2024,share,website
+718,6/26/2024,click,website
+719,4/23/2024,click,email
+720,5/29/2024,click,email
+721,7/6/2024,view,social media
+722,4/9/2024,share,email
+723,2/25/2024,view,email
+724,6/7/2024,share,email
+725,1/24/2024,click,social media
+726,5/9/2024,view,social media
+727,1/11/2024,view,social media
+728,1/22/2024,click,social media
+729,6/18/2024,share,website
+730,5/19/2024,view,website
+731,6/4/2024,click,website
+732,6/24/2024,view,social media
+733,6/18/2024,share,social media
+734,2/3/2024,view,website
+735,4/10/2024,share,email
+736,2/12/2024,view,website
+737,3/27/2024,click,email
+738,4/3/2024,view,website
+739,6/2/2024,click,email
+740,5/29/2024,click,social media
+741,4/2/2024,share,website
+742,7/3/2024,click,website
+743,3/26/2024,share,social media
+744,2/10/2024,view,website
+745,5/4/2024,share,email
+746,7/5/2024,view,email
+747,4/21/2024,click,website
+748,4/16/2024,share,website
+749,1/16/2024,click,website
+750,1/26/2024,view,social media
+751,6/15/2024,share,email
+752,2/1/2024,share,social media
+753,3/9/2024,share,social media
+754,3/2/2024,share,email
+755,1/31/2024,click,social media
+756,1/21/2024,click,email
+757,4/30/2024,view,email
+758,6/8/2024,click,website
+759,4/27/2024,share,social media
+760,6/13/2024,share,social media
+761,6/25/2024,view,website
+762,1/20/2024,share,social media
+763,2/20/2024,share,website
+764,6/19/2024,click,email
+765,2/20/2024,view,email
+766,5/20/2024,click,email
+767,6/26/2024,click,social media
+768,2/29/2024,view,email
+769,4/17/2024,click,social media
+770,5/10/2024,view,website
+771,3/24/2024,share,website
+772,4/23/2024,share,website
+773,2/17/2024,click,website
+774,1/13/2024,share,email
+775,1/2/2024,share,social media
+776,6/7/2024,click,website
+777,1/18/2024,click,website
+778,6/1/2024,click,social media
+779,1/9/2024,share,website
+780,4/28/2024,share,email
+781,6/20/2024,click,email
+782,3/5/2024,view,website
+783,5/17/2024,view,website
+784,1/17/2024,view,email
+785,1/4/2024,click,email
+786,1/20/2024,view,social media
+787,4/14/2024,click,website
+788,5/24/2024,view,email
+789,2/3/2024,click,website
+790,4/20/2024,view,social media
+791,3/6/2024,share,social media
+792,3/7/2024,click,social media
+793,3/21/2024,view,email
+794,1/4/2024,click,email
+795,6/2/2024,view,website
+796,3/14/2024,share,website
+797,2/7/2024,click,social media
+798,2/14/2024,view,website
+799,3/24/2024,share,social media
+800,3/2/2024,share,email
+801,3/15/2024,share,social media
+802,3/27/2024,share,social media
+803,5/21/2024,click,social media
+804,5/19/2024,view,social media
+805,5/22/2024,click,social media
+806,3/27/2024,click,website
+807,3/27/2024,share,website
+808,5/20/2024,click,email
+809,3/4/2024,click,email
+810,2/25/2024,click,social media
+811,2/13/2024,share,email
+812,2/19/2024,click,website
+813,2/18/2024,share,email
+814,5/14/2024,click,website
+815,6/14/2024,share,website
+816,2/2/2024,share,website
+817,3/16/2024,click,email
+818,4/20/2024,view,email
+819,3/20/2024,share,social media
+820,1/8/2024,click,social media
+821,3/22/2024,view,website
+822,4/6/2024,share,website
+823,6/11/2024,click,website
+824,4/2/2024,click,social media
+825,4/3/2024,share,website
+826,2/17/2024,click,website
+827,5/16/2024,click,website
+828,2/8/2024,view,website
+829,3/13/2024,click,website
+830,3/1/2024,share,email
+831,6/4/2024,share,social media
+832,7/6/2024,share,email
+833,1/20/2024,share,email
+834,3/29/2024,share,email
+835,6/27/2024,view,website
+836,6/21/2024,click,website
+837,4/1/2024,click,website
+838,6/19/2024,click,email
+839,4/16/2024,click,social media
+840,3/26/2024,click,website
+841,6/15/2024,share,website
+842,1/5/2024,view,website
+843,6/15/2024,share,website
+844,5/16/2024,click,email
+845,3/1/2024,share,email
+846,4/30/2024,view,social media
+847,4/17/2024,share,website
+848,6/3/2024,view,website
+849,6/26/2024,click,website
+850,6/26/2024,share,website
+851,7/6/2024,share,social media
+852,1/15/2024,view,website
+853,7/3/2024,share,social media
+854,3/9/2024,share,email
+855,5/30/2024,view,social media
+856,3/31/2024,view,website
+857,6/6/2024,share,social media
+858,4/18/2024,click,website
+859,3/10/2024,view,email
+860,1/1/2024,view,social media
+861,4/2/2024,view,website
+862,4/12/2024,view,email
+863,1/18/2024,view,email
+864,2/10/2024,view,email
+865,4/25/2024,view,social media
+866,5/16/2024,share,website
+867,5/24/2024,click,website
+868,3/28/2024,view,website
+869,6/28/2024,share,social media
+870,6/7/2024,click,website
+871,4/29/2024,view,email
+872,3/14/2024,click,website
+873,3/18/2024,share,website
+874,1/17/2024,click,email
+875,5/6/2024,click,website
+876,1/23/2024,view,social media
+877,6/11/2024,share,social media
+878,6/21/2024,click,email
+879,6/23/2024,view,social media
+880,5/23/2024,share,social media
+881,3/12/2024,click,email
+882,3/2/2024,click,email
+883,3/7/2024,share,email
+884,3/3/2024,share,email
+885,2/25/2024,share,website
+886,1/21/2024,share,social media
+887,4/1/2024,click,social media
+888,4/22/2024,view,website
+889,3/21/2024,share,email
+890,5/25/2024,share,social media
+891,2/21/2024,share,website
+892,2/18/2024,click,website
+893,3/13/2024,share,social media
+894,5/12/2024,view,website
+895,3/18/2024,share,social media
+896,6/22/2024,share,social media
+897,2/17/2024,view,website
+898,2/25/2024,view,email
+899,3/9/2024,share,email
+900,3/4/2024,view,email
+901,2/26/2024,share,social media
+902,1/1/2024,click,social media
+903,1/1/2024,share,email
+904,5/6/2024,view,email
+905,4/12/2024,share,email
+906,4/27/2024,share,social media
+907,2/7/2024,click,website
+908,1/15/2024,click,email
+909,3/23/2024,view,social media
+910,1/30/2024,view,website
+911,3/22/2024,click,social media
+912,5/2/2024,share,social media
+913,6/12/2024,view,email
+914,3/12/2024,share,website
+915,2/6/2024,share,email
+916,5/20/2024,view,email
+917,6/10/2024,click,email
+918,1/29/2024,view,website
+919,6/17/2024,view,email
+920,2/16/2024,view,website
+921,6/13/2024,view,email
+922,4/7/2024,click,website
+923,4/27/2024,share,email
+924,5/8/2024,view,email
+925,6/29/2024,share,social media
+926,5/4/2024,share,social media
+927,1/8/2024,view,social media
+928,5/31/2024,view,website
+929,5/5/2024,share,website
+930,7/5/2024,share,email
+931,4/25/2024,view,website
+932,1/21/2024,share,social media
+933,3/15/2024,view,social media
+934,4/27/2024,click,social media
+935,2/26/2024,view,website
+936,5/29/2024,click,email
+937,5/25/2024,share,social media
+938,6/30/2024,view,website
+939,1/4/2024,share,website
+940,3/12/2024,share,social media
+941,4/20/2024,view,website
+942,1/4/2024,click,social media
+943,3/7/2024,click,social media
+944,3/25/2024,view,email
+945,6/11/2024,share,social media
+946,4/18/2024,click,social media
+947,1/14/2024,view,social media
+948,6/10/2024,click,social media
+949,2/20/2024,view,email
+950,6/29/2024,share,email
+951,5/24/2024,click,social media
+952,6/2/2024,view,social media
+953,5/27/2024,click,social media
+954,6/24/2024,click,email
+955,3/12/2024,share,email
+956,1/29/2024,click,website
+957,4/11/2024,view,social media
+958,6/26/2024,click,website
+959,5/12/2024,share,social media
+960,1/13/2024,share,email
+961,2/21/2024,share,email
+962,4/25/2024,share,social media
+963,5/17/2024,click,email
+964,6/11/2024,share,social media
+965,5/26/2024,view,email
+966,2/20/2024,click,social media
+967,5/8/2024,share,website
+968,4/3/2024,share,website
+969,6/22/2024,click,website
+970,6/22/2024,view,social media
+971,3/6/2024,view,website
+972,3/21/2024,click,email
+973,6/14/2024,click,social media
+974,1/22/2024,share,email
+975,2/3/2024,share,social media
+976,2/7/2024,view,website
+977,4/13/2024,share,email
+978,5/9/2024,view,email
+979,2/16/2024,share,social media
+980,4/1/2024,view,social media
+981,3/13/2024,view,email
+982,4/12/2024,share,website
+983,7/5/2024,share,social media
+984,4/9/2024,view,email
+985,5/11/2024,view,social media
+986,6/21/2024,view,social media
+987,6/30/2024,share,website
+988,3/1/2024,click,social media
+989,1/19/2024,click,social media
+990,2/27/2024,view,social media
+991,5/24/2024,click,email
+992,2/10/2024,share,website
+993,1/18/2024,click,website
+994,6/23/2024,view,social media
+995,6/19/2024,view,email
+996,5/17/2024,share,website
+997,6/14/2024,share,email
+998,3/27/2024,view,social media
+999,1/29/2024,view,email
+1000,5/20/2024,view,email
